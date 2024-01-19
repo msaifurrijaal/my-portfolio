@@ -17,19 +17,17 @@ const Project = () => {
         <div className="w-full px-4 mt-8 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
           <ProjectCard
             title="Post Natal Care App"
-            desc="As a Android developer, developing native Android applications
-              using the Kotlin language,"
+            desc="As an Android developer, developing native Android applications using Kotlin language, Firebase. "
             src="postnatal.png"
             link="https://play.google.com/store/apps/details?id=com.msaifurrijaal.postnatal"
-            linkText="goes to Google Play Store."
+            linkText="Goes to Google Play Store."
           />
           <ProjectCard
             title="Savefood App"
-            desc="As a Android developer, developing native Android applications
-            using the Kotlin language,"
+            desc="As an Android developer, developing native Android applications using Kotlin language, Firebase. "
             src="savefood.png"
             link="https://drive.google.com/drive/folders/19_z7XZqej4QV0joQCz0K6iFBtUevcfV3?usp=sharing"
-            linkText="download apk."
+            linkText="Download apk."
           />
           <ProjectCard
             title="Kampenies App"
