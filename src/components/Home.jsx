@@ -16,7 +16,7 @@ const Home = () => {
         <div className="w-full text-center pt-8 px-4">
           <p className="font-bold text-base md:text-xl">Hello there!</p>
           <h2 className="text-2xl sm:text-4xl md:text-5xl font-bold mt-2 md:mt-4 flex text-primary justify-center">
-            <span className="mr-2 text-black">I am</span>
+            <span className="mr-2 text-black">I'am</span>
             <Typewriter
               options={{
                 loop: true,
