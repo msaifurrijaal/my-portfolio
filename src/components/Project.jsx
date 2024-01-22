@@ -38,7 +38,7 @@ const Project = () => {
             linkText="goes to repository."
           />
           <ProjectCard
-            title="Landing Page Website SalingJaga"
+            title="Website SalingJaga"
             desc="As a web developer, developing products using laravel and tailwind
             css,"
             src="salingjaga.jpeg"
@@ -51,6 +51,14 @@ const Project = () => {
             css,"
             src="thebox.jpeg"
             link="https://github.com/msaifurrijaal/saling-jaga-web"
+            linkText="goes to repository."
+          />
+          <ProjectCard
+            title="Website Ecommerce TrendLoom"
+            desc="As a web developer, developing products using react and tailwind
+            css,"
+            src="trendloom.jpeg"
+            link="https://github.com/msaifurrijaal/trendloom"
             linkText="goes to repository."
           />
         </div>
