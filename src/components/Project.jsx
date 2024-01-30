@@ -16,11 +16,28 @@ const Project = () => {
         </div>
         <div className="w-full px-4 mt-8 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
           <ProjectCard
-            title="Post Natal Care App"
-            desc="As an Android developer, developing native Android applications using Kotlin language, Firebase. "
-            src="postnatal.png"
-            link="https://play.google.com/store/apps/details?id=com.msaifurrijaal.postnatal"
-            linkText="Goes to Google Play Store."
+            title="Website Buahkita Ecommerce"
+            desc="As a frontend developer, developing products using React Js (Typescript) and Tailwind
+            css,"
+            src="buahkita.jpeg"
+            link="https://github.com/msaifurrijaal/buah-kita"
+            linkText="goes to repository."
+          />
+          <ProjectCard
+            title="Website SalingJaga"
+            desc="As a web developer, developing products using Laravel and Tailwind
+            CSS,"
+            src="salingjaga.jpeg"
+            link="https://github.com/msaifurrijaal/saling-jaga-web"
+            linkText="goes to repository."
+          />
+          <ProjectCard
+            title="Website Ecommerce TrendLoom"
+            desc="As a web developer, developing products using React Js and Tailwind
+            CSS,"
+            src="trendloom.jpeg"
+            link="https://github.com/msaifurrijaal/trendloom"
+            linkText="goes to repository."
           />
           <ProjectCard
             title="Savefood App"
@@ -38,28 +55,11 @@ const Project = () => {
             linkText="goes to repository."
           />
           <ProjectCard
-            title="Website SalingJaga"
-            desc="As a web developer, developing products using laravel and tailwind
-            css,"
-            src="salingjaga.jpeg"
-            link="https://github.com/msaifurrijaal/saling-jaga-web"
-            linkText="goes to repository."
-          />
-          <ProjectCard
-            title="Landing Page Website"
-            desc="As a web developer, developing products using react and tailwind
-            css,"
-            src="thebox.jpeg"
-            link="https://github.com/msaifurrijaal/saling-jaga-web"
-            linkText="goes to repository."
-          />
-          <ProjectCard
-            title="Website Ecommerce TrendLoom"
-            desc="As a web developer, developing products using react and tailwind
-            css,"
-            src="trendloom.jpeg"
-            link="https://github.com/msaifurrijaal/trendloom"
-            linkText="goes to repository."
+            title="Post Natal Care App"
+            desc="As an Android developer, developing native Android applications using Kotlin language, Firebase. "
+            src="postnatal.png"
+            link="https://play.google.com/store/apps/details?id=com.msaifurrijaal.postnatal"
+            linkText="Goes to Google Play Store."
           />
         </div>
       </div>
