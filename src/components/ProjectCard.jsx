@@ -2,7 +2,7 @@ const ProjectCard = (props) => {
   const { title, desc, src, link, linkText } = props;
   return (
     <div className="w-full sm:w-1/2 lg:w-1/3 px-3 mb-4">
-      <div className=" bg-white border border-gray-200 hover:scale-105 transition duration-200 rounded-lg shadow h-full">
+      <div className=" bg-white border border-gray-200 hover:scale-105 transition duration-300 rounded-lg shadow h-full">
         <img className="rounded-t-lg" src={`/images/project/${src}`} alt="" />
         <div className="p-5 ">
           <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900">
