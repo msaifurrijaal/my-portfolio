@@ -32,12 +32,12 @@ const Project = () => {
             linkText="goes to repository."
           />
           <ProjectCard
-            title="Website Ecommerce TrendLoom"
-            desc="As a web developer, developing products using React Js and Tailwind
+            title="Website Startup Luarkelas"
+            desc="As a front-end developer, developing products using React Js and Tailwind
             CSS,"
-            src="trendloom.jpeg"
-            link="https://github.com/msaifurrijaal/trendloom"
-            linkText="goes to repository."
+            src="luarkelas.jpeg"
+            link="https://luarkelas.id/"
+            linkText="goes to website page."
           />
           <ProjectCard
             title="Savefood App"
